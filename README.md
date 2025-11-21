@@ -103,8 +103,8 @@ Interactive web portfolio
 ---
 
 ## 🤝 Connect With Me
-- Email: m.j.masmoudi1@gmail.com
-- LinkedIn: https://www.linkedin.com/in/jalel-masmoudi-0542b4200
+- Email: mkammoun75@gmail.com
+- LinkedIn: www.linkedin.com/in/mahdi-kammoun-066a7a338
 - Website: Personal Portfolio
 - GitHub: Active in discussions and issues
 
@@ -127,11 +127,3 @@ I believe in writing clean, efficient, and well-documented code. Every problem i
 
 ---
 
-### 🚀 Quick Stats
-
-<!-- Optional: Badges (uncomment to enable) -->
-<!--
-![Profile Views](https://komarev.com/ghpvc/?username=jalel-masmoudi&color=blue)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jalel-masmoudi&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jalel-masmoudi&show_icons=true)
--->
